@@ -16,7 +16,6 @@ AI-assisted engineering, data products, and developer tooling — projects that 
 
 ## Links
 
-- Site: [new-blog-sooty.vercel.app](https://new-blog-sooty.vercel.app/fe/introduction)
 - Org: [github.com/FFP-Tech-Lab](https://github.com/FFP-Tech-Lab)
 
 ---
